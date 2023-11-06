@@ -12,7 +12,7 @@ Designer and Producer: Jason Leung (https://www.linkedin.com/in/jason-leung-2918
 Programmers:
 
 
-Arian Jafari-Tadi (https://www.linkedin.com/in/arian-jafari-tadi-b83144249/)
+Arian Jafari-Tadi (https://www.linkedin.com/in/arian-jafari-tadi)
 
 
 Kris Burgess-James (https://www.linkedin.com/in/kris-burgess-james-2a9251184/)
